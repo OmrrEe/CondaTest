@@ -1,5 +1,5 @@
 streamlit==1.57.0
-matplitlib==3.10.9
+matplotlib==3.10.9
 numpy==2.4.4
 pandas==3.0.3
 openpyxl==26.3.2
